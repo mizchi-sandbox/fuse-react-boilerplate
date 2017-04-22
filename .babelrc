@@ -1,0 +1,3 @@
+{
+  "presets": ["env", "@mizchi/babel-preset"]
+}
